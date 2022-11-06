@@ -1,0 +1,180 @@
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+a:hover {
+    color: #fffffe;
+    font-weight: bold;
+    justify-content: space-between;
+    
+
+}
+
+.ft {
+    color: #efbb2c;
+}
+
+body {
+    background-color: #efbb2c;
+    height: 100vh;
+    margin: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    background-image: url("../images/H\ 7.jpg") ;
+    color: red;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #efbb2c;
+    font-weight: bold;
+}
+
+main {
+   
+    background-color: #efbb2c;
+    background-image: url("../images/H\ 7.jpg");
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(29, 14, 14);
+    padding: 2px;
+}
+
+footer {
+    color: #efbb2c;
+    font-weight: bold;
+}
+
+header {
+    color: #efbb2c;
+
+}
+
+h1 {
+   font-size: bold;
+   font-style: italic;
+   text-decoration: underline;
+   text-align: center;
+}
+
+li {
+    border: 5px;
+    margin: 10px;
+    
+}
+
+.see {
+    color: #efbb2c;
+}
+
+.my {
+    color: #efbb2c;
+}
+
+.da {
+    width: 100%;
+    height: 30px;
+}
+
+.wa {
+    width: 100%;
+    height: 30px;
+}
+
+.sa {
+    width: 100%;
+    height: 30px;
+}
+
+.za {
+    width: 100%;
+    height: 30px;
+}
+.af {
+    width: 100%;
+    height: 30px;
+}
+
+.sc {
+    color: rgb(29, 14, 14);
+}
+
+.bx {
+    width: 100%;
+}
+
+.la {
+    color: #efbb2c;
+    text-decoration: none;
+}
+
+.ho {
+    text-decoration: none;
+}
+
+.he {
+    text-decoration: none;
+}
+
+.wp {
+    width: 50%;
+    height: 30px;
+}
+
+.wo {
+    width: 50%;
+    height: 30px;
+}
+
+.wi {
+    width: 50%;
+    height: 30px;
+}
+
+.wu {
+    width: 50%;
+    height: 30px;
+}
+
+.wy {
+    width: 50%;
+    height: 30px;
+}
+
+.wt {
+    width: 50%;
+    height: 30px;
+}
+
+.wr {
+    width: 50%;
+    height: 30px;
+}
+
+label {
+    font-weight: bold;
+}
+
+button {
+    color: #efbb2c;
+    font-weight: bold;
+    width: 100px;
+    background-color: rgb(29, 14, 14);
+}
+
+tr {
+    color: #efbb2c;
+    border-color: #efbb2c;
+}
+.ml {
+    color: #efbb2c;
+    text-decoration: none;
+}
